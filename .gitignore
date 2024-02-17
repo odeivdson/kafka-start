@@ -23,5 +23,5 @@
 hs_err_pid*
 replay_pid*
 
-#ignore Kafka config and data files
-Kafka/
+#ignore Kafka data files
+docker/
