@@ -8,16 +8,16 @@ Inicializar o ambiente de desenvolvimento kafka/zookeper/kafdrop
 
 ` $ docker-compose up -d`
 
-###Consumidores:
+##### Consumidores:
 
 - service-email
 - service-fraud-detector
 - service-log
 
-###Produtor:
+##### Produtor:
 
 - service-new-order
 
-###kafdrop | GUI kafka
+##### kafdrop | GUI kafka
 
 - kafdrop: http://localhost:19000/
